@@ -1,0 +1,1 @@
+* 1 lab. MNIST (torch)
